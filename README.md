@@ -73,9 +73,9 @@ Advantages:
 ✅ Free for Open Source – GitHub offers unlimited public repositories with free hosting.
 
 Disadvantages:
-❌ Security Risks – Code and files are publicly accessible, which may expose vulnerabilities or sensitive information if not managed properly.
-❌ Unwanted Contributions – External users can create issues and submit pull requests, which may require extra effort to manage.
-❌ Intellectual Property Risks – Code can be copied or used without permission unless properly licensed.
+ Security Risks – Code and files are publicly accessible, which may expose vulnerabilities or sensitive information if not managed properly.
+ Unwanted Contributions – External users can create issues and submit pull requests, which may require extra effort to manage.
+Intellectual Property Risks – Code can be copied or used without permission unless properly licensed.
 
 Best Use Cases:
 Open-source projects
@@ -86,15 +86,15 @@ Community-driven tools and libraries
 A private repository is only accessible to the owner and invited collaborators. The repository is hidden from public view.
 
 Advantages:
-✅ Security & Privacy – Only authorized users can access the repository, protecting sensitive code and business logic.
-✅ Control Over Collaboration – Limits contributions to approved team members, reducing unwanted changes or spam.
-✅ Intellectual Property Protection – Helps safeguard proprietary code and confidential information.
-✅ Safe Experimentation – Developers can test new features before making them public.
+Security & Privacy – Only authorized users can access the repository, protecting sensitive code and business logic.
+Control Over Collaboration – Limits contributions to approved team members, reducing unwanted changes or spam.
+Intellectual Property Protection – Helps safeguard proprietary code and confidential information.
+Safe Experimentation – Developers can test new features before making them public.
 
 Disadvantages:
-❌ Limited External Contributions – Prevents open-source collaboration unless access is granted.
-❌ Cost Considerations – Private repositories require a paid GitHub plan for teams needing advanced collaboration features.
-❌ Less Visibility – Code is not publicly accessible, so it won’t attract community feedback or recognition.
+Limited External Contributions – Prevents open-source collaboration unless access is granted.
+Cost Considerations – Private repositories require a paid GitHub plan for teams needing advanced collaboration features.
+Less Visibility – Code is not publicly accessible, so it won’t attract community feedback or recognition.
 
 Best Use Cases:
 Proprietary software development
